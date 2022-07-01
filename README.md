@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chowdary01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... web development,and intenships 
+- 🌱 I’m currently i am...3year of B-tech
+- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ... mkodandasai@gmail.com
 
 <!---
